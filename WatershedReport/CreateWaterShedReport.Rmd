@@ -183,7 +183,7 @@ in _RStudio_ or any other text editor.
 
 ## Editing the main template file.
 ### Overview of process
-Each watershed report will have one main template file (_QC-WatershedTemplate.Rd_ in our case) and one or more
+Each watershed report will have one main template file (_QC-WatershedTemplate.Rmd_ in our case) and one or more
 species template files (_QC-SpeciesSubsection-BKTR.Rmd_ etc.) that are _knitted_ (in _R_ parlance) together. These
 template files contain both text and _R_ code as a living document so that as the data change, the report is updated when the
 the template are again knitted together.
