@@ -57,7 +57,7 @@ If you are unable to authorize _JAVA_, you will need to save the FWIS files into
 
 
 ## Getting the FWIS data
-Information on each watershed is extracted from the FWIS database. Contact ????? for further details.
+Information on each watershed is extracted from the FWIS database. Contact Chad Sherburne (780.638.4143) for further details.
 
 **The current extraction program creates Excel 95 files. 
 _R_ requires workbooks to be in Excel 97 or later format, so you will have to open and save
