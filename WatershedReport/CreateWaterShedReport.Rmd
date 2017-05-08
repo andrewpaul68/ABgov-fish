@@ -39,7 +39,7 @@ at <http://people.stat.sfu.ca/~cschwarz/CourseNotes/HowGetSoftware.html>.
 Don't forget to install the packages (add ons for _R_) as listed
 in item (6) of the installation instructions in the above link. You will also need to install the following packages:
     + _stringr_ specialized functions for text processing
-    + _R2Jags_, _coda_, _digest_ needed to run JAGS
+    + _R2jags_, _coda_, _digest_ needed to run JAGS
     +  _pander_  needed to create tables in _RMarkdown_ 
     + _ggmaps_ needed to extract Google maps over the web. You will needs the most recent version which has NOT yet been released 
       to CRAN. You need to install it using 
